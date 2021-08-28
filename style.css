@@ -1,0 +1,81 @@
+body{
+	background: pink;
+}
+button{
+	font-size: 40px;
+}
+.calculator{
+
+	width: 500px;
+	height: 700px;
+	margin: 0 auto 0 auto;
+	margin-top: 50px;
+	background: white;
+}
+h1{
+	width: 500px;
+	text-align: center;
+	margin: 0 auto 0 auto;
+	color: #5CBCDB;
+	font-size: 40px;
+	padding-top: 10px;
+}
+#screen{
+	width: 500px;
+	height: 84px;
+	max-height: 84px;
+	background: #D5DAA2;
+}
+.specials button{
+	background: lightpink;
+	border-color: lightpink;
+	width: 187px;
+	height: 56px;
+	margin: 0;
+	padding: 0;
+	float: left;
+	margin-right: 0.5px;
+}
+.numbers button{
+	background: #EBCDF2;
+	border-color: #EBCDF2;
+	width: 125px;
+	height: 140px;
+	float: left;
+	margin: 0;
+
+
+}
+#zero{
+	width: 75%;
+}
+.operations{
+
+	width: 125px;
+	height: 616px;
+	float: right;
+	background: pink;
+	margin: 0;
+}
+.operations button{
+	background: lightblue;
+	border-color: lightblue;
+	width: 125px;
+	height: 110px;
+}
+#equal{
+	height: 176px;
+}
+#div,#subs,#add,#mult,#equal{
+	font-size: 75px;
+}
+
+#screen h2{
+	text-align: right;
+
+	font-size: 40px;
+	margin: 0;
+	color: #F4F4F4;
+	max-height: 84px;
+
+}
