@@ -66,6 +66,7 @@ h1{
 	border-color: lightblue;
 	width: 125px;
 	height: 110px;
+	border-right-width: 0;
 }
 #equal{
 	height: 176px;
