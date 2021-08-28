@@ -13,6 +13,10 @@ button{
 	background: white;
 }
 h1{
+	padding:10px;
+}
+
+h1{
 	width: 500px;
 	text-align: center;
 	margin: 0 auto 0 auto;
