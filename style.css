@@ -29,6 +29,7 @@ h1{
 	height: 84px;
 	max-height: 84px;
 	background: #D5DAA2;
+	border-color:lightblue;
 }
 .specials button{
 	background: lightpink;
@@ -66,7 +67,7 @@ h1{
 	border-color: lightblue;
 	width: 125px;
 	height: 110px;
-	border-right-width: 0;
+	
 }
 #equal{
 	height: 176px;
